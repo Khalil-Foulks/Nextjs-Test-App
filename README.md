@@ -3,6 +3,14 @@
 
 ## Getting the app to run
 
-```cd my-app```
+```
+cd my-app
+```
 
-```npm run dev```
+```
+npm install next react react-dom
+```
+
+```
+npm run dev
+```
